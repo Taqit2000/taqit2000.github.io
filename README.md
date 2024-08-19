@@ -1,10 +1,6 @@
 # taqit2000.github.io
 
 
- /assets/img/headshot.jpeg
-
-
-
 Name: Md Taqi Tahmid Hussain
 
 
