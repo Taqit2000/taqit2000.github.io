@@ -1,7 +1,7 @@
 # taqit2000.github.io
 
 
-logo: /assets/img/headshot.jpeg
+ /assets/img/headshot.jpeg
 
 
 
